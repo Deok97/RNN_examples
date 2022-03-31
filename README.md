@@ -1,3 +1,3 @@
 # RNN_examples
-- [RNN example code with Tensorflow](https://nbviewer.org/github/Deok97/RNN_examples/blob/main/RNN_example_with_Tensorflow.ipynb)  
-- (maybe later) with Pytorch
+### You can also see the notebooks below  
+- [Hands_on_ML_ch15.ipynb](https://nbviewer.org/github/Deok97/RNN_examples/blob/main/Hands_on_ML_ch15.ipynb)  
